@@ -5,9 +5,9 @@ import {
 } from "react-bootstrap";
 
 import MyNavbar from "components/my-navbar";
-import Intro from "@/components/Intro";
-import ListItem from "@/components/list-item";
-import GridItem from "@/components/grid-item";
+import Intro from "components/Intro";
+import ListItem from "components/list-item";
+import GridItem from "components/grid-item";
 
 export default function Home() {
   return (
