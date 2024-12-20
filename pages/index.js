@@ -5,7 +5,7 @@ import {
 } from "react-bootstrap";
 
 import MyNavbar from "components/my-navbar";
-import Intro from "components/Intro";
+import Intro from "components/intro";
 import ListItem from "components/list-item";
 import GridItem from "components/grid-item";
 
