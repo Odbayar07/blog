@@ -15,5 +15,5 @@ export default () => {
         </Nav>
       </Navbar.Collapse>
     </Navbar>
-	)
-}
+	);
+};
